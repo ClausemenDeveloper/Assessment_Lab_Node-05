@@ -1,0 +1,14 @@
+{"array": [{ "codigo": 14000, "disciplina": "Programação Web", "professor": "Professor de PW", "nota": 14 }, { "codigo": 13000, "disciplina": "Redes de Computadores", "professor": "Professor de RC", "nota": 12 }, { "codigo": 17000, "disciplina": "Arquitetura de Computadores", "professor": "Professor de AC", "nota": 18 }]}
+
+Objeto adicionado ao array.
+Objeto adicionado ao array.
+Objeto adicionado ao array.
+Objeto na posição 2 apagado do array.
+Objeto na posição 3 do array atualizado.
+Todos os elementos do array foram apagados.
+Ocorreu um erro ao atualizar um objeto no array.
+Objeto na posição 1 do array atualizado.
+A posição acedida para apagar um valor do array não existe.
+Objeto na posição 1 apagado do array.
+Objeto na posição 0 apagado do array.
+Objeto na posição 0 apagado do array.
